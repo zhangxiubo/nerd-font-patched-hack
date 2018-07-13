@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: 'SauceCodePro Nerd Font Mono';
-    src: url('fonts/SauceCodeProNerdFontCompleteM-Medium.woff2') format('woff2');
+    src: url('fonts/SauceCodeProNerdFontCompleteM-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
